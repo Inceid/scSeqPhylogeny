@@ -1,0 +1,30 @@
+Suraj Joshi
+10/15/2017
+
+10-trial test, 4 sample trees
+
+L1:
+
+sum of our pairwise distances =  114.0
+mean =  85.0
+standard deviation =  8.30662386292
+T-statistic =  11.0401113206
+P-value =  7.80627842312e-07
+
+L2:
+
+sum of our pairwise distances =  114.0
+mean =  93.8
+standard deviation =  6.66033032214
+T-statistic =  9.59081691836
+P-value =  2.53036924243e-06
+
+CNTP:
+
+sum of our pairwise distances =  114.0
+mean =  88.0
+standard deviation =  6.57267069006
+T-statistic =  12.5092558324
+P-value =  2.70000626498e-07
+
+#EOF

@@ -1,0 +1,13 @@
+Validation Report from outputs/finalTrees/L2_full_L2_tree.dot
+How many trials for permutation test? 10
+sum of actual distances: 19660788
+
+FINAL values below. 
+ ========== 
+ 
+sum of our pairwise distances =  19660788.0
+mean =  19621931.8
+standard deviation =  8511.89893972
+T-statistic =  14.4355676788
+p-value =  7.866690514e-08
+==========

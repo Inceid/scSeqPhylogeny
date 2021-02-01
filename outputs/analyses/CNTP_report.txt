@@ -1,0 +1,23 @@
+Validation Report from outputs/finalTrees/CNTP_all_samples.dot
+How many trials for permutation test? 10
+sum of actual distances: 14476476
+Proceed? yes
+finished trial:  1
+finished trial:  2
+finished trial:  3
+finished trial:  4
+finished trial:  5
+finished trial:  6
+finished trial:  7
+finished trial:  8
+finished trial:  9
+finished trial:  10
+FINAL values below. 
+ ========== 
+ 
+sum of our pairwise distances =  14476476.0
+mean =  14446530.4
+standard deviation =  5541.45645214
+T-statistic =  16.2117668479
+P-value =  2.8676919991969188e-08
+==========

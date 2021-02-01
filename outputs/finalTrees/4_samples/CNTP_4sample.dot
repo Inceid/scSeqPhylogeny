@@ -1,0 +1,15 @@
+digraph tree_of_4sample {
+	G33SP2SC62 [shape = box];
+	G33SP3SC28 [shape = box];
+	G07SP1SC51 [shape = box];
+	G33SP1SC49 [shape = box];
+	G33SP3SC28_G33SP1SC49 [shape = box];
+	G33SP3SC28_G33SP1SC49 -> G33SP3SC28 [label = 1.250000];
+	G33SP3SC28_G33SP1SC49 -> G33SP1SC49 [label = 3.750000];
+	Parent2_Parent1_G33SP2SC62 [shape = box];
+	Parent2_Parent1_G33SP2SC62 -> G33SP3SC28_G33SP1SC49 [label = 1.250000];
+	Parent2_Parent1_G33SP2SC62 -> G33SP2SC62 [label = 16.750000];
+	ROOT [shape = box];
+	ROOT -> Parent2_Parent1_G33SP2SC62 ;
+	ROOT -> G07SP1SC51 [label = 63.250000];
+}
